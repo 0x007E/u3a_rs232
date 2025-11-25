@@ -2,6 +2,8 @@
 
 # `U3A_rs232` - RS232 - Adapter for U3A
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/0x007E/u3a_rs232)
+
 The `U3A_rs232` project is based on a ([MAX3232](#additional-information)) that ist used to change the TTL/CMOS level to the required level of TIA/EIA-232-F standard. It can simply be adapted to the [U3A-Module](https://github.com/0x007e/u3a). The Module can be used with a [DSUB](https://www.reichelt.de/de/de/shop/produkt/d-sub-stecker_9-pol_flachbandkabel_ohne_isolator-6987) connector.
 
 > To use it with a [DSUB](https://www.reichelt.de/de/de/shop/produkt/d-sub-stecker_9-pol_flachbandkabel_ohne_isolator-6987) connector it is necessary to create a connector cable that can be plugged into the IDC connector.
